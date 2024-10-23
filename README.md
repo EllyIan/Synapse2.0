@@ -1,3 +1,3 @@
-# expenses_tracker
+# Synapse2
 
 A new Flutter project.

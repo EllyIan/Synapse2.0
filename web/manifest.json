@@ -1,6 +1,6 @@
 {
-    "name": "synapse2.0",
-    "short_name": "synapse2.0",
+    "name": "synapse2",
+    "short_name": "synapse2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
